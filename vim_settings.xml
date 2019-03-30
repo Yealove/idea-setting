@@ -1,0 +1,182 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/easy-kit/src/main/java/com/github/yealove/easykit/dao/HostRepos.java" timestamp="1543054201721">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="48" />
+        <mark key="^" line="8" column="48" />
+        <mark key="." line="8" column="48" />
+      </file>
+      <file name="/JUnit3 TearDown Method.txt.ft" timestamp="1543046591532">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/github/layui/pom.xml" timestamp="1543046041951">
+        <mark key="[" line="7" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/log-eye/pom.xml" timestamp="1543045670542">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="15" />
+        <mark key="^" line="24" column="15" />
+        <mark key="." line="24" column="15" />
+      </file>
+      <file name="/Interface.txt.ft" timestamp="1543046575348">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/easy-kit/src/main/java/com/github/yealove/easykit/EasyKitApplication.java" timestamp="1545151604031">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="8" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/github/webjar-layui/README.MD" timestamp="1543047987267">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/github/webjar-layui/src/main/java/com/github/yealove/layui/Result.java" timestamp="1543047062875">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="6" column="2" />
+        <mark key="." line="6" column="2" />
+        <mark key="^" line="6" column="2" />
+      </file>
+      <file name="/CSS File.txt.ft" timestamp="1543046585461">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1543047414258">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1543046470901">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1543038236433">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/easy-kit/src/main/java/com/github/yealove/easykit/web/JschController.java" timestamp="1545151954108">
+        <mark key="[" line="48" column="12" />
+        <mark key="]" line="48" column="13" />
+        <mark key="." line="48" column="13" />
+        <mark key="^" line="48" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/easy-kit/src/main/resources/application.yml" timestamp="1543048952606">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/github/webjar-layui/pom.xml" timestamp="1543046144369">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="/package-info.txt.ft" timestamp="1543046580466">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JUnit3 Test Class.txt.ft" timestamp="1543046591120">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/easy-kit/src/main/java/com/github/yealove/easykit/po/Host.java" timestamp="1543050039826">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/easy-kit/src/main/java/com/github/yealove/easykit/service/HostService.java" timestamp="1543054441849">
+        <mark key="[" line="23" column="38" />
+        <mark key="]" line="7" column="21" />
+        <mark key="^" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+      </file>
+      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1543046586429">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Enum.txt.ft" timestamp="1543046584133">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Class.txt.ft" timestamp="1543046574234">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/XHTML File.txt.ft" timestamp="1543046573750">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/module-info.txt.ft" timestamp="1543046582964">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/AnnotationType.txt.ft" timestamp="1543046579117">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/easy-kit/src/main/java/com/github/yealove/easykit/dao/HostRepository.java" timestamp="1543054273897">
+        <mark key="]" line="7" column="2" />
+        <mark key="^" line="7" column="2" />
+        <mark key="." line="7" column="2" />
+      </file>
+      <file name="$USER_HOME$/workspace/easy-kit/pom.xml" timestamp="1543048326844">
+        <mark key="[" line="59" column="21" />
+      </file>
+      <file name="/fragment.java" timestamp="1543046206086">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="2" column="49" filename="/File Header.txt.ft" />
+      <jump line="11" column="0" filename="$USER_HOME$/workspace/easy-kit/src/main/java/com/github/yealove/easykit/EasyKitApplication.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/easy-kit/src/main/java/com/github/yealove/easykit/EasyKitApplication.java" />
+    </jumps>
+    <registers>
+      <register name="0" type="4">
+        <text>return;</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>n</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgUwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">QERhdGEK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>50</text>
+      </register>
+      <register name="-" type="4">
+        <text>n</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>bn</entry>
+        <entry>bp</entry>
+        <entry>50</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

@@ -1,0 +1,25 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Enable Auto Configuration" />
+      <item value="Indicates a {@link Configuration configuration} class that declares one or more {@link Bean @Bean} methods and also triggers {@link EnableAutoConfiguration auto-configuration} and {@link ComponentScan component scanning}. This is a convenience annotation that is equivalent to declaring {@code @Configuration}, {@code @EnableAutoConfiguration} and {@code @ComponentScan}." />
+      <item value="Exclude specific auto-configuration classes such that they will never be applied. @return the classes to exclude" />
+      <item value="Kafka Demo Application" />
+      <item value="runnable" />
+      <item value="* Return an object of the specified type to allow access to * the provider-specific API. If the provider's query * implementation does not support the specified class, the * &lt;code&gt;PersistenceException&lt;/code&gt; is thrown. * @param cls the class of the object to be returned. This is * normally either the underlying query * implementation class or an interface that it * implements. * @return an instance of the specified class * @throws PersistenceException if the provider does not support * the call * @since Java Persistence 2.0" />
+      <item value="unwrap" />
+      <item value="Return an object of the specified type to allow access to * the provider-specific API. If the provider's query * implementation does not support the specified class, the * &lt;code&gt;PersistenceException&lt;/code&gt; is thrown." />
+      <item value="goal" />
+      <item value="test Varying Number Of Hourly Periods" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="\*" />
+  </component>
+</application>
