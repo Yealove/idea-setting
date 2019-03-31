@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern=".attach_pid15739" type="PLAIN_TEXT" />
-      <mapping ext="jmod" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
