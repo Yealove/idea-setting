@@ -1,0 +1,12 @@
+<application>
+  <component name="UISettings">
+    <option name="EDITOR_TAB_LIMIT" value="20" />
+    <option name="FONT_FACE" value="Noto Sans CJK JP Bold" />
+    <option name="FONT_SCALE" value="1.0" />
+    <option name="FONT_SIZE" value="14" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
+  </component>
+</application>
